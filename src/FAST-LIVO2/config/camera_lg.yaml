@@ -1,0 +1,21 @@
+# CAM_FRONT_MID, matching the rectified images in hbus_ros1.bag.
+
+cam_model: Pinhole
+
+# 已核对 bag 中的实际图像分辨率
+cam_width: 1920
+cam_height: 1080
+
+scale: 0.5
+
+# 相机内参
+cam_fx: 1012.2143895058
+cam_fy: 1012.3952116652
+cam_cx: 960.6348203933
+cam_cy: 535.3103724683
+
+# 输入图像已经使用完整的8参数模型去畸变
+cam_d0: 0.0
+cam_d1: 0.0
+cam_d2: 0.0
+cam_d3: 0.0
