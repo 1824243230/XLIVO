@@ -1,0 +1,36 @@
+{
+  "odometry": 518,
+  "clouds": 518,
+  "nonfinite_odometry": 0,
+  "images": 518,
+  "images_with_markers": 516,
+  "max_marker_pixels": 13056,
+  "max_cloud_points": 24876,
+  "bag": "/home/hyh/catkin_ws/hbus_ros1.bag",
+  "original_bag_backup": "/home/hyh/catkin_ws/hbus_ros1.lidar_right.bag",
+  "lidar_front_payload_matches": 527,
+  "unchanged_image_messages": 527,
+  "unchanged_imu_messages": 5202,
+  "first_scan_visible_points_before": 0,
+  "first_scan_visible_points_after": 29247,
+  "lidar_to_imu_axis_rotation": [
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    -1,
+    0,
+    0
+  ],
+  "lidar_to_imu_rotation_status": "coarse axis alignment inferred from sensor motion; precise mounting calibration remains unverified",
+  "gravity_alignment": true,
+  "simulation_time": true,
+  "last_position": [
+    103.065,
+    61.1363,
+    -2.08901
+  ],
+  "maximum_position_norm": 119.85341815040613
+}
